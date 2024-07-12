@@ -1,0 +1,16 @@
+{
+	"geode": "3.2.0",
+	"gd": {
+		"win": "2.206",
+		"android": "2.206",
+		"mac": "2.206",
+		"ios": "2.206"
+	},
+	"id": "shine.copy_hack",
+	"name": "Copy Hack",
+	"version": "v1.0.0",
+	"developer": "Shine",
+	"description": "Mod that bypasses password for copying or even disabled copy function for onlline levels.",
+	"repository": "https://github.com/ShineUA/Copy-Hack",
+	"tags": ["enhancement", "utility", "universal", "interface"]
+}
